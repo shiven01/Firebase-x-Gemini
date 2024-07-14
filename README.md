@@ -1,0 +1,3 @@
+ - Implemented a mobile app wrapper for Google Gemini Pro chatbot w/Flutter
+ - Integrated with Firebase for hosting and Cloud Firestore for seamless management of Gemini Pro API requests
+ - Utilized Firebase features like Cloud Functions and Authentication for secure and efficient data management
